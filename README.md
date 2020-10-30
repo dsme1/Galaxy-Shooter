@@ -1,2 +1,2 @@
 # Galaxy Shooter
- Scripts for Galaxy Shooter game
+ Scripts for Galaxy Shooter Unity game
